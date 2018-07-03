@@ -42,17 +42,17 @@ In visual studio with ResX Manager you can see the added resource:
 
 ![alt text][5]
 
-
+#########################################
 
 If you try to add again the string, it founds the string in the resources and gives you only the snippets to use it:
 ![alt text][6]
 
-[1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[3]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[4]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[5]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[6]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[1]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/1.PNG "Give an input string"
+[2]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/2.PNG "ResourceKey"
+[3]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/3.PNG "Choose the resource"
+[4]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/4.PNG "Snippets"
+[5]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/5.PNG "ResX Manager check"
+[6]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/6.PNG "Resource already present"
 
 
 ## Possible Improvements
