@@ -1,5 +1,5 @@
-## Do you have many strings in your ASP project to put in Resources?
-This script makes it fast!
+## Do you have a lot of strings in your ASP project to put in Resources?
+This python script makes it fast!
 
 ## HOW TO
 Set the resx file path and the languages you need in the arrays:
@@ -18,7 +18,7 @@ languages = [
 ]
 ```
 
-### Execution
+### Execute
 + Run the script (you need Python ofc):
 
 `py script.py`
