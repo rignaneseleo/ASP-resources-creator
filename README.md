@@ -19,32 +19,34 @@ languages = [
 ```
 
 ### Execution
-Run the script (you need Python ofc):
++ Run the script (you need Python ofc):
+
 `py script.py`
 
-Insert the string you want to add:
++ Insert the string you want to add:
 
 ![alt text][1]
 
-The camelcase key is creted:
++ The camelcase key is creted:
 
 ![alt text][2]
 
-Since the key is not already in the file, it asks you where you want to add the string:
++ Since the key is not already in the file, it asks you where you want to add the string:
 
 ![alt text][3]
 
-The string is added and some useful snippets are provided:
++ The string is added and some useful snippets are provided:
 
 ![alt text][4]
 
-In visual studio with ResX Manager you can see the added resource:
++ In visual studio with ResX Manager you can see the added resource:
 
 ![alt text][5]
 
 #########################################
 
-If you try to add again the string, it founds the string in the resources and gives you only the snippets to use it:
++ If you try to add again the string, it founds the string in the resources and gives you only the snippets to use it:
+
 ![alt text][6]
 
 [1]: https://raw.githubusercontent.com/rignaneseleo/ASP-resources-creator/master/screen/1.PNG "Give an input string"
