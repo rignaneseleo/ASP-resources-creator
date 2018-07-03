@@ -5,6 +5,8 @@ This python script makes it fast!
 Set the resx file path and the languages you need in the arrays:
 
 ### Setup
+Insert resources path in _resources_ array and the languages of other resource files in the _languages_ array.
+
 *EXAMPLE*:
 ```
 # resources where to look for resource keys
@@ -17,7 +19,6 @@ languages = [
     "it"
 ]
 ```
-
 ### Execute
 + Run the script (you need Python ofc):
 
